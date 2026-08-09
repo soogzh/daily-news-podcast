@@ -1,38 +1,37 @@
 podcast:
   title: 每日新闻速递
   author: 每日新闻速递
-  email: soogzh@gmail.com
-  description: 每天早晨双人对谈式全球新闻播客，覆盖科技、财经、政治与全球热点。
+  email: 你的真实邮箱@example.com  # <--- 记得确认这里是不是你的真实邮箱
+  description: 每天早晨双人对谈式全球新闻播客，硬核覆盖科技、财经与国际政治。
   language: zh-cn
   category: News
   explicit: false
   base_url: auto
-  cover: "https://soogzh.github.io/daily-news-podcast/cover.jpg"
+  cover: "https://soogzh.github.io/daily-news-podcast/cover.jpg" # <--- 确认你的封面后缀是 jpg 还是 png
 
 news:
-  max_items: 12
-  per_source: 3
+  max_items: 15
+  per_source: 4
   sources:
-    - name: BBC World
-      url: http://feeds.bbci.co.uk/news/world/rss.xml
-
-    - name: BBC Business
-      url: http://feeds.bbci.co.uk/news/business/rss.xml
-
-    - name: BBC Technology
-      url: http://feeds.bbci.co.uk/news/technology/rss.xml
-
+    # --- 纯科技源 ---
     - name: TechCrunch
       url: https://techcrunch.com/feed/
-
     - name: The Verge
       url: https://www.theverge.com/rss/index.xml
-
-    - name: CNBC Top News
-      url: https://www.cnbc.com/id/100003114/device/rss/rss.html
-
+    - name: Ars Technica
+      url: http://feeds.arstechnica.com/arstechnica/index
     - name: Hacker News
       url: https://hnrss.org/frontpage
+
+    # --- 纯财经源 ---
+    - name: CNBC Business
+      url: https://www.cnbc.com/id/10001147/device/rss/rss.html
+    - name: MarketWatch
+      url: http://feeds.marketwatch.com/marketwatch/topstories/
+
+    # --- 全球政治/宏观源 ---
+    - name: BBC World
+      url: http://feeds.bbci.co.uk/news/world/rss.xml
 
 audio:
   target_minutes: 40
