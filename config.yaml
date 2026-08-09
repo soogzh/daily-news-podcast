@@ -35,7 +35,7 @@ news:
       url: https://hnrss.org/frontpage
 
 audio:
-  target_minutes: 20
+  target_minutes: 40
   bitrate: 96k
   gap_ms: 500
   bgm_volume: -24
