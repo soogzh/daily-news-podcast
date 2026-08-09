@@ -1,0 +1,6 @@
+feedparser
+requests
+openai
+edge-tts
+pydub
+pyyaml
