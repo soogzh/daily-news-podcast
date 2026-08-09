@@ -140,8 +140,8 @@ def build_script(client, news):
     news_json = json.dumps(news, ensure_ascii=False, indent=2)
 
     system_prompt = """你是一档中文每日新闻播客的双人编剧。你需要把新闻素材改写成自然、有趣、适合播出的双人对谈剧本。
-主播A：逗哏，负责提问、好奇、吐槽、替听众追问。
-主播B：捧哏，负责专业分析、解释背景、补充事实。
+主播A：男主播，逗哏，负责提问、好奇、吐槽、替听众追问。
+主播B：女主播，捧哏，负责专业分析、解释背景、补充事实。
 要求：
 1. 只输出对话内容，不要标题，不要说明，不要Markdown，不要代码块。
 2. 每一行必须以“A：”或“B：”开头。
@@ -237,9 +237,11 @@ def split_text(text, max_len=240):
 
 
 async def synth_line(text, voice, path, retries=3):
+    rate = CONFIG.get("audio", {}).get("rate", "+0%")
+
     for attempt in range(retries):
         try:
-            communicate = edge_tts.Communicate(text, voice)
+            communicate = edge_tts.Communicate(text, voice, rate=rate)
             await communicate.save(str(path))
             return True
         except Exception as e:
@@ -258,7 +260,7 @@ async def build_speech(lines):
     TEMP_DIR.mkdir(parents=True, exist_ok=True)
 
     for idx, (speaker, content) in enumerate(lines):
-        voice = voices.get(speaker, voices.get("B", "zh-CN-YunyangNeural"))
+        voice = voices.get(speaker, voices.get("B", "zh-CN-XiaoxiaoNeural"))
         chunks = split_text(content, 240)
 
         for chunk_idx, chunk in enumerate(chunks):
