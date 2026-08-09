@@ -139,7 +139,7 @@ def build_script(client, news):
     target_chars = int(target_minutes * 300)
     news_json = json.dumps(news, ensure_ascii=False, indent=2)
 
-        system_prompt = """你是一档中文每日新闻播客的双人编剧。你需要把新闻素材改写成自然、有趣、适合播出的双人对谈剧本。
+    system_prompt = """你是一档中文每日新闻播客的双人编剧。你需要把新闻素材改写成自然、有趣、适合播出的双人对谈剧本。
 主播A：男主播，逗哏，负责提问、好奇、吐槽、替听众追问。
 主播B：女主播，捧哏，负责专业分析、解释背景、补充事实。
 要求：
@@ -486,7 +486,7 @@ def main():
     }
 
     episodes.insert(0, episode)
-    episodes = episodes[:100]
+    episodes = episodes[:30]
 
     save_episodes(episodes)
     build_rss(episodes, base_url)
