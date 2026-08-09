@@ -7,7 +7,7 @@ podcast:
   category: News
   explicit: false
   base_url: auto
-  cover: ""
+  cover: "https://soogzh.github.io/daily-news-podcast/cover.jpg"
 
 news:
   max_items: 12
@@ -39,10 +39,11 @@ audio:
   bitrate: 96k
   gap_ms: 500
   bgm_volume: -24
+  rate: "+85%"
 
 voices:
   A: zh-CN-YunxiNeural
-  B: zh-CN-YunyangNeural
+  B: zh-CN-XiaoxiaoNeural
 
 llm:
   temperature: 0.7
