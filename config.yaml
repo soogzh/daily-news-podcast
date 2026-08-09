@@ -1,7 +1,7 @@
 podcast:
   title: 每日新闻速递
   author: 每日新闻速递
-  email: you@example.com
+  email: soogzh@gmail.com
   description: 每天早晨双人对谈式全球新闻播客，覆盖科技、财经、政治与全球热点。
   language: zh-cn
   category: News
@@ -35,7 +35,7 @@ news:
       url: https://hnrss.org/frontpage
 
 audio:
-  target_minutes: 10
+  target_minutes: 20
   bitrate: 96k
   gap_ms: 500
   bgm_volume: -24
