@@ -1,0 +1,49 @@
+podcast:
+  title: 每日新闻速递
+  author: 每日新闻速递
+  email: you@example.com
+  description: 每天早晨双人对谈式全球新闻播客，覆盖科技、财经、政治与全球热点。
+  language: zh-cn
+  category: News
+  explicit: false
+  base_url: auto
+  cover: ""
+
+news:
+  max_items: 12
+  per_source: 3
+  sources:
+    - name: BBC World
+      url: http://feeds.bbci.co.uk/news/world/rss.xml
+
+    - name: BBC Business
+      url: http://feeds.bbci.co.uk/news/business/rss.xml
+
+    - name: BBC Technology
+      url: http://feeds.bbci.co.uk/news/technology/rss.xml
+
+    - name: TechCrunch
+      url: https://techcrunch.com/feed/
+
+    - name: The Verge
+      url: https://www.theverge.com/rss/index.xml
+
+    - name: CNBC Top News
+      url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+
+    - name: Hacker News
+      url: https://hnrss.org/frontpage
+
+audio:
+  target_minutes: 10
+  bitrate: 96k
+  gap_ms: 500
+  bgm_volume: -24
+
+voices:
+  A: zh-CN-YunxiNeural
+  B: zh-CN-YunyangNeural
+
+llm:
+  temperature: 0.7
+  max_script_tokens: 8000
