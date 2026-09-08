@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-09",
+    "title": "每日新闻速递：白宫游戏侵权秒撤、OpenAI挑战数学难题、AI编程估值飙升、哥斯拉基多拉回归 | 2026-09-09",
+    "description": "本期节目涵盖白宫建墙游戏因版权被撤、AI账号安全警示、OpenAI声称解决纳维-斯托克斯问题引发争议、AI编程公司Cognition估值480亿美元、欧洲航天挑战SpaceX、索尼暂缓淘汰光盘、ASML新光刻机效率提升40%、Rivian电动自行车跳票、Meta审核漏洞、最高法院选举广告裁决及哥斯拉新片预告等热点新闻。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-09.mp3",
+    "pub_date": "Tue, 08 Sep 2026 23:52:09 +0000",
+    "duration": "00:09:47",
+    "size": 7052013
+  },
+  {
     "guid": "2026-09-08",
     "title": "AI黑话、苹果折叠屏、奥迪电动车、内存涨价 | 每日新闻速递 2026-09-08",
     "description": "本期节目解读AI术语如幻觉与涌现能力，介绍伊丽莎白·霍姆斯纪录片，预告苹果折叠屏iPhone Ultra及App Store人事变动，讨论奥迪A2 E-Tron、索尼XM4C耳机、EcoFlow电源，欧洲商业火箭发射，特斯拉Cybercab调查，以及内存涨价对手机价格的影响。",
@@ -259,14 +268,5 @@
     "pub_date": "Mon, 10 Aug 2026 22:38:00 +0000",
     "duration": "00:08:52",
     "size": 6386733
-  },
-  {
-    "guid": "2026-08-10",
-    "title": "每日新闻速递：AI芯片豪赌、火星自驾、飓风预测与硅谷反思 | 2026-08-10",
-    "description": "本期节目涵盖AI芯片投资、Claude Code自动模式、火星车自动驾驶、特斯拉Autopilot事故、Zoox无人出租车、DeepMind飓风预测、欧洲野火追踪及历史学家对硅谷的批评，带您速览科技前沿动态。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-10.mp3",
-    "pub_date": "Sun, 09 Aug 2026 22:29:45 +0000",
-    "duration": "00:08:30",
-    "size": 6126093
   }
 ]
