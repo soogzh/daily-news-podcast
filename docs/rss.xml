@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-09-11：英伟达增长预期、OpenAI算力瓶颈与AI前沿</title>
+      <description>本期从英伟达70%增长预期聊起，涉及OpenAI Pro订阅暂停、Slack的AI编程功能、学校对科技公司套路的警觉、欧洲金星任务单干、电动空中出租车试飞、VC投资体育球队、LinkedIn隐私诉讼、Android密码迁移、AI形式化证明、图像验证及笔记本健康提醒。信息量大，共同线索是AI渗透、算力约束、监管边界与资本新玩法。</description>
+      <pubDate>Thu, 10 Sep 2026 23:44:05 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-11.mp3" type="audio/mpeg" length="5861997"/>
+      <guid isPermaLink="false">2026-09-11</guid>
+      <itunes:duration>00:08:08</itunes:duration>
+    </item>
+    <item>
       <title>苹果iPhone Duo震撼发布，新CEO首秀致敬乔布斯；Automattic CEO遭逼宫，AI安全专家入局OpenAI | 每日新闻速递 2026-09-10</title>
       <description>本期节目聚焦苹果折叠屏手机iPhone Duo发布及新CEO的‘数字中枢’战略，探讨Automattic CEO被董事会强制休假的内幕，分析美国多州限制数据中心对AI发展的影响，解读OpenAI引入AI安全专家的用意，并讨论中美AI竞争、欧洲航天创业和网络安全新威胁。</description>
       <pubDate>Wed, 09 Sep 2026 23:51:35 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-13.mp3" type="audio/mpeg" length="6445773"/>
       <guid isPermaLink="false">2026-08-13</guid>
       <itunes:duration>00:08:57</itunes:duration>
-    </item>
-    <item>
-      <title>每日新闻速递：盖茨女儿创业争议、AI双雄破10亿用户、Xbox新手柄泄露 | 2026-08-12</title>
-      <description>本期节目涵盖科技、投资、国际局势等热点：比尔·盖茨女儿菲比创立的社交电商Phia涉嫌不正当追踪；Accel超额认购5.5亿美元印度基金；Uber出售机器人公司股份；FBI警告私密照片勒索；Xbox Elite Series 3手柄样机泄露；Sonos新耳机曝光；谷歌Gemini与ChatGPT月活均破10亿；Meta面临1.4万亿美元诉讼；Chrome推出设备绑定安全功能；以及腾讯3D世界生成工具等前沿科技。</description>
-      <pubDate>Tue, 11 Aug 2026 22:41:51 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-12.mp3" type="audio/mpeg" length="8992269"/>
-      <guid isPermaLink="false">2026-08-12</guid>
-      <itunes:duration>00:12:29</itunes:duration>
     </item>
   </channel>
 </rss>
