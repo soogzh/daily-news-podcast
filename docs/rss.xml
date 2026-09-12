@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递：2026年9月13日 AI治理、机器狗与法律滞后</title>
+      <description>本期聚焦AI治理新动向：Automattic创始人回归、OpenAI暂不上市、Anthropic放慢前沿，以及AI代理攻击事件。同时关注特斯拉Roadster发布、星际争霸回归、Unitree低价机器狗、卫星专属发射、博弈论随机奖励、充气城堡MRSA爆发、加州保险缺口，以及AI开发工具基准测试。</description>
+      <pubDate>Sat, 12 Sep 2026 23:45:54 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-13.mp3" type="audio/mpeg" length="8156781"/>
+      <guid isPermaLink="false">2026-09-13</guid>
+      <itunes:duration>00:11:19</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递：AI融资热、数学家抗议与折叠屏iPhone | 2026-09-12</title>
       <description>本期聚焦AI领域资本与争议：Mecka AI以近5亿美元估值融资，Khosla Ventures进军纽约，Garry Tan呼吁开源蒸馏；数学家联名抗议AI侵权，律师因AI幻觉被罚。此外，苹果发布折叠屏iPhone Duo，白宫言论引关注，爱尔兰充气城堡爆发MRSA，以及太空、能源、技术社区等热点。</description>
       <pubDate>Fri, 11 Sep 2026 23:55:26 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-15.mp3" type="audio/mpeg" length="6814413"/>
       <guid isPermaLink="false">2026-08-15</guid>
       <itunes:duration>00:09:27</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-14 每日新闻速递：明星创业翻车、苹果间谍软件警告、无人机颠覆战争、AI成本战</title>
-      <description>本期节目涵盖赛琳娜·戈麦斯创业欺诈诉讼、苹果政府级间谍软件警告、谷歌应用商店判决、微软AI助手换角、维珍银河太空船命名、乌克兰无人机演习、Flock监控争议、美国私营网络攻击授权、AI模型成本优化、OpenAI企业报告、NP问题讨论及Netflix关闭游戏工作室等热点新闻。</description>
-      <pubDate>Thu, 13 Aug 2026 22:42:58 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-14.mp3" type="audio/mpeg" length="9662157"/>
-      <guid isPermaLink="false">2026-08-14</guid>
-      <itunes:duration>00:13:25</itunes:duration>
     </item>
   </channel>
 </rss>
