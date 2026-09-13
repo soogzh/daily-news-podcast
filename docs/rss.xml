@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-09-14：AI风投策略、末日警告与苹果手柄传闻</title>
+      <description>本期从硅谷风投Insight Partners的多元化策略聊起，探讨拉里·埃里森取消75亿美元甲骨文股票出售的信号意义，深入AI行业关于“末日警告”的辩论，并关注苹果游戏手柄、Waymo无人车报警、Unitree机器人狗、卫星精品发射、GPT-2历史回顾、Signal隐私注册等新闻，最后分析AI监管背后的地缘政治博弈。</description>
+      <pubDate>Sun, 13 Sep 2026 23:55:58 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-14.mp3" type="audio/mpeg" length="6998445"/>
+      <guid isPermaLink="false">2026-09-14</guid>
+      <itunes:duration>00:09:43</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递：2026年9月13日 AI治理、机器狗与法律滞后</title>
       <description>本期聚焦AI治理新动向：Automattic创始人回归、OpenAI暂不上市、Anthropic放慢前沿，以及AI代理攻击事件。同时关注特斯拉Roadster发布、星际争霸回归、Unitree低价机器狗、卫星专属发射、博弈论随机奖励、充气城堡MRSA爆发、加州保险缺口，以及AI开发工具基准测试。</description>
       <pubDate>Sat, 12 Sep 2026 23:45:54 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-16.mp3" type="audio/mpeg" length="6425613"/>
       <guid isPermaLink="false">2026-08-16</guid>
       <itunes:duration>00:08:55</itunes:duration>
-    </item>
-    <item>
-      <title>每日新闻速递：自动驾驶卡车加州上路、AI泡沫预警、水厂遭黑客攻击、Pocket关停等 | 2026-08-15</title>
-      <description>本期节目涵盖多个热点：自动驾驶卡车在加州高速正式开跑，硅谷投资人警告AI泡沫，美国水厂遭网络攻击，Pocket应用即将关停，三星计划推出头戴式耳机，全电动飞机仅花5美元电费完成首飞，Mac远程屏幕共享漏洞被积极利用，以及量子计算对加密体系的潜在威胁。此外，还有关于咖啡与健康的研究和开学季购机建议。</description>
-      <pubDate>Fri, 14 Aug 2026 22:22:22 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-15.mp3" type="audio/mpeg" length="6814413"/>
-      <guid isPermaLink="false">2026-08-15</guid>
-      <itunes:duration>00:09:27</itunes:duration>
     </item>
   </channel>
 </rss>
