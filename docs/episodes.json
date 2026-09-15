@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-15",
+    "title": "每日新闻速递 2026-09-15：AI放缓之争、OpenAI收购与英伟达挑战者",
+    "description": "本期聚焦AI巨头间的放缓与加速之争，黄仁勋与阿莫代伊立场对立；OpenAI收购Glass Imaging强化图像处理；Cornelis融资挑战英伟达；亚马逊Prime Video试水短视频新闻；Steam Deck 2遥遥无期；Apple Home新摄像头功能月费60美元；还有AI机器人灌水、马斯克诉讼等科技财经热点。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-15.mp3",
+    "pub_date": "Tue, 15 Sep 2026 00:17:37 +0000",
+    "duration": "00:05:30",
+    "size": 3966093
+  },
+  {
     "guid": "2026-09-14",
     "title": "每日新闻速递 2026-09-14：AI风投策略、末日警告与苹果手柄传闻",
     "description": "本期从硅谷风投Insight Partners的多元化策略聊起，探讨拉里·埃里森取消75亿美元甲骨文股票出售的信号意义，深入AI行业关于“末日警告”的辩论，并关注苹果游戏手柄、Waymo无人车报警、Unitree机器人狗、卫星精品发射、GPT-2历史回顾、Signal隐私注册等新闻，最后分析AI监管背后的地缘政治博弈。",
@@ -259,14 +268,5 @@
     "pub_date": "Sun, 16 Aug 2026 22:21:00 +0000",
     "duration": "00:10:10",
     "size": 7323597
-  },
-  {
-    "guid": "2026-08-16",
-    "title": "每日新闻速递：AI安全警钟、SpaceX收购Cursor、能源革命与太空探索 | 2026-08-16",
-    "description": "本期节目聚焦AI安全：Grok被用于生成儿童色情图片引发担忧，Anthropic推出隐形水印技术应对；SpaceX收购AI编程工具Cursor；美国新增发电厂太阳能和电池储能占主导，全球最大电动飞机试飞仅耗电5美元；MacOS严重漏洞需紧急更新；乌克兰袭击俄火箭工厂；纪念“Wow!”信号49周年及数字信号处理先驱Bede Liu。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-16.mp3",
-    "pub_date": "Sat, 15 Aug 2026 22:20:24 +0000",
-    "duration": "00:08:55",
-    "size": 6425613
   }
 ]
