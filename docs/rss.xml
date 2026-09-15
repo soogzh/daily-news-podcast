@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-09-16：AI数据中心遭61%美国人反对，星舰将首飞</title>
+      <description>本期聚焦AI数据中心引发的社会反弹：费城社区抗议，民调显示61%美国人反对，能源消耗或超德日总和。同时关注Meta用AI代理简化WhatsApp Business设置，TechCrunch的“AI坟场”清单，微软本地AI发布会预告。航天方面，罗曼望远镜燃料够用22年，星舰即将首次轨道飞行。此外，社交媒体与青少年心理健康的争论出现新声音，宾州麻疹疫情致第四例死亡。</description>
+      <pubDate>Tue, 15 Sep 2026 23:59:40 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-16.mp3" type="audio/mpeg" length="6607053"/>
+      <guid isPermaLink="false">2026-09-16</guid>
+      <itunes:duration>00:09:10</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递 2026-09-15：AI放缓之争、OpenAI收购与英伟达挑战者</title>
       <description>本期聚焦AI巨头间的放缓与加速之争，黄仁勋与阿莫代伊立场对立；OpenAI收购Glass Imaging强化图像处理；Cornelis融资挑战英伟达；亚马逊Prime Video试水短视频新闻；Steam Deck 2遥遥无期；Apple Home新摄像头功能月费60美元；还有AI机器人灌水、马斯克诉讼等科技财经热点。</description>
       <pubDate>Tue, 15 Sep 2026 00:17:37 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-18.mp3" type="audio/mpeg" length="6200109"/>
       <guid isPermaLink="false">2026-08-18</guid>
       <itunes:duration>00:08:36</itunes:duration>
-    </item>
-    <item>
-      <title>AI信任危机、Stripe 70亿收购、亚马逊仲裁条款引争议 | 每日新闻速递 2026-08-17</title>
-      <description>本期节目聚焦AI行业信任危机：Anthropic CEO回应反弹情绪，Meta的扎克伯格AI愿景遭质疑，OpenAI解散安全团队引发担忧。同时，Stripe拟70亿收购OpenRouter，英伟达缩减对OpenAI的融资担保。国际方面，乌克兰打击俄火箭工厂；美国新增发电量光伏主导。此外，亚马逊更新仲裁条款限制集体诉讼，野火烟雾危害孕妇健康，电动空中出租车商业化推迟。</description>
-      <pubDate>Sun, 16 Aug 2026 22:21:00 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-17.mp3" type="audio/mpeg" length="7323597"/>
-      <guid isPermaLink="false">2026-08-17</guid>
-      <itunes:duration>00:10:10</itunes:duration>
     </item>
   </channel>
 </rss>
