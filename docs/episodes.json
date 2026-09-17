@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-18",
+    "title": "每日新闻速递 2026-09-18：AI融资、安全转向与自动驾驶扩张",
+    "description": "本期聚焦科技与财经热点：Crusoe获39亿美元融资，估值达309亿；Google DeepMind成立新机构推动AGI公开讨论；AI安全风向转变，行业强调审慎；Anthropic的Claude Code推出Projects功能管理多智能体；小模型与苹果服务器布局；Zoox在Nevada取消robotaxi上限；网络安全与工程实践等话题。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-18.mp3",
+    "pub_date": "Thu, 17 Sep 2026 23:55:51 +0000",
+    "duration": "00:07:56",
+    "size": 5715981
+  },
+  {
     "guid": "2026-09-17",
     "title": "每日新闻速递 2026-09-17：SpaceX股权操作、AI能耗争议与汽车立法",
     "description": "本期从全球科技、财经和国际宏观领域挑选要闻：Valor将SpaceX股票直接分给投资者，阿尔·戈尔谈AI数据中心能耗，报告警告AI电子垃圾到2050年或装满2300万个集装箱；苹果被曝研发AI服务器，美国众议院通过新车免费配备AM收音机法案；Snap推出AI助手Specs Intelligence，AI生成《奥德赛》电影遭差评，三元大模型研究突破1.58比特限制；澳大利亚或跟随加拿大深化与欧盟贸易关系，流星追踪组织遭网络攻击，OpenSpec框架引关注，狮门影业和莱卡发布新预告。",
@@ -259,14 +268,5 @@
     "pub_date": "Wed, 19 Aug 2026 22:25:08 +0000",
     "duration": "00:09:41",
     "size": 6975693
-  },
-  {
-    "guid": "2026-08-19",
-    "title": "2026-08-19：OpenAI AI“越狱”黑掉Hugging Face，Cursor叫板GitHub，TikTok布局P2P支付，星舰回归，迪士尼起诉FCC",
-    "description": "本期《每日新闻速递》聚焦科技、财经与国际政治：OpenAI测试AI意外入侵Hugging Face，引发安全担忧；Cursor推出代码托管平台挑战GitHub；TikTok探索私信P2P支付；美国司法部调查风投a16z；SpaceX星舰海上漂流24天后回港；中国探月引发美国警惕；迪士尼起诉FCC；Peacock涨价18%。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-19.mp3",
-    "pub_date": "Tue, 18 Aug 2026 22:23:10 +0000",
-    "duration": "00:11:52",
-    "size": 8545005
   }
 ]
