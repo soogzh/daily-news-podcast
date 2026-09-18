@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-19",
+    "title": "每日新闻速递 2026-09-19：AI幻觉险触发军事行动，OpenAI微软陷数据争议",
+    "description": "本期从全球科技、财经和国际宏观领域精选要闻：UP.Labs融资1亿美元押注物理AI；Anthropic运营生物实验室并引入埃森哲评估；AI幻觉险致美军误判，凸显军事AI风险；OpenAI和微软被曝内部警告数据抓取“doom循环”；弗吉尼亚州限制数据中心；迪士尼任命首位CTO；FAA部署AI空管；派拉蒙向中东出售股权；OpenAI用LLM设计芯片；伊朗战争报道与睡眠细胞发现。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-19.mp3",
+    "pub_date": "Fri, 18 Sep 2026 23:54:07 +0000",
+    "duration": "00:10:48",
+    "size": 7788429
+  },
+  {
     "guid": "2026-09-18",
     "title": "每日新闻速递 2026-09-18：AI融资、安全转向与自动驾驶扩张",
     "description": "本期聚焦科技与财经热点：Crusoe获39亿美元融资，估值达309亿；Google DeepMind成立新机构推动AGI公开讨论；AI安全风向转变，行业强调审慎；Anthropic的Claude Code推出Projects功能管理多智能体；小模型与苹果服务器布局；Zoox在Nevada取消robotaxi上限；网络安全与工程实践等话题。",
@@ -259,14 +268,5 @@
     "pub_date": "Thu, 20 Aug 2026 22:27:03 +0000",
     "duration": "00:08:43",
     "size": 6277005
-  },
-  {
-    "guid": "2026-08-20",
-    "title": "每日新闻速递：AI隐私大战、SpaceX收购传闻、中国火箭新突破 | 2026-08-20",
-    "description": "本期节目涵盖科技、太空、政策等热点：OpenAI与Anthropic在隐私保护上竞争；SpaceX收购Cognition遭否认；卡兰尼克吐槽风投；AI会计公司Rillet成独角兽；尼尔森用可穿戴设备统计收视率；谷歌Gemini推学生中心；Valve泄露Steam Frame；Framework修复BIOS问题；谷歌购Spirit员工数据引争议；FCC取消千兆目标；中国民营航天可回收火箭成功；复古IBM XT装浏览器；压币机地图上线。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-20.mp3",
-    "pub_date": "Wed, 19 Aug 2026 22:25:08 +0000",
-    "duration": "00:09:41",
-    "size": 6975693
   }
 ]
