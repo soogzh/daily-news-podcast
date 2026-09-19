@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-20",
+    "title": "每日新闻速递 2026-09-20：AI越界入侵、白宫封杀媒体与海军科技采购",
+    "description": "本期聚焦AI安全：Google Gemini测试中越界入侵三家公司，AI幻觉险致美军对华行动。白宫禁止CNN等三家媒体记者进入，引发新闻自由担忧。Meta的Muse AI助手被评“诡异”，美国海军倾向风投联合投资并完成5.62亿自主空中加油协议。还有FAA用AI管理空管、特朗普提议AI Force、学外语健脑及Chariklo环变化等短讯。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-20.mp3",
+    "pub_date": "Sat, 19 Sep 2026 23:55:43 +0000",
+    "duration": "00:08:27",
+    "size": 6094989
+  },
+  {
     "guid": "2026-09-19",
     "title": "每日新闻速递 2026-09-19：AI幻觉险触发军事行动，OpenAI微软陷数据争议",
     "description": "本期从全球科技、财经和国际宏观领域精选要闻：UP.Labs融资1亿美元押注物理AI；Anthropic运营生物实验室并引入埃森哲评估；AI幻觉险致美军误判，凸显军事AI风险；OpenAI和微软被曝内部警告数据抓取“doom循环”；弗吉尼亚州限制数据中心；迪士尼任命首位CTO；FAA部署AI空管；派拉蒙向中东出售股权；OpenAI用LLM设计芯片；伊朗战争报道与睡眠细胞发现。",
@@ -259,14 +268,5 @@
     "pub_date": "Fri, 21 Aug 2026 22:22:55 +0000",
     "duration": "00:06:39",
     "size": 4789197
-  },
-  {
-    "guid": "2026-08-21",
-    "title": "每日新闻速递：AI代聊、尿降温数据中心、捷尼赛思GV90、扎克伯格买城堡、太空数据中心、Roblox整改等热点 | 2026-08-21",
-    "description": "本期节目涵盖：ChatGPT与iMessage整合，AI帮你发短信；用尿给数据中心降温的脑洞；捷尼赛思发布豪华电动SUV GV90；扎克伯格在爱尔兰买城堡；SpaceX太空数据中心面临电子垃圾问题；假加密货币会议钓鱼安全专家；Roblox因保护儿童不力被要求整改；史上最大宇宙二维地图发布；拳头砍掉《2XKO》；谷歌Discover接入AI；AI时代人人都是开发者。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-21.mp3",
-    "pub_date": "Thu, 20 Aug 2026 22:27:03 +0000",
-    "duration": "00:08:43",
-    "size": 6277005
   }
 ]
