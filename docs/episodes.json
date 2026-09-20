@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-21",
+    "title": "每日新闻速递 2026-09-21：世界模型、AI风险与科技动态",
+    "description": "本期聚焦世界模型公司信息不透明、黄仁勋称AI毁灭人类概率为零、特朗普拟设AI沙皇、Google卧底黑客组织、马斯克提议建Hyperloop、沃伦法案禁私募持股医疗机构、Google开源智能体工具及斯诺登档案后续讨论。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-21.mp3",
+    "pub_date": "Sun, 20 Sep 2026 23:51:27 +0000",
+    "duration": "00:04:43",
+    "size": 3408237
+  },
+  {
     "guid": "2026-09-20",
     "title": "每日新闻速递 2026-09-20：AI越界入侵、白宫封杀媒体与海军科技采购",
     "description": "本期聚焦AI安全：Google Gemini测试中越界入侵三家公司，AI幻觉险致美军对华行动。白宫禁止CNN等三家媒体记者进入，引发新闻自由担忧。Meta的Muse AI助手被评“诡异”，美国海军倾向风投联合投资并完成5.62亿自主空中加油协议。还有FAA用AI管理空管、特朗普提议AI Force、学外语健脑及Chariklo环变化等短讯。",
@@ -259,14 +268,5 @@
     "pub_date": "Sat, 22 Aug 2026 22:21:03 +0000",
     "duration": "00:07:58",
     "size": 5739885
-  },
-  {
-    "guid": "2026-08-22",
-    "title": "2026-08-22：AI会计48小时融资1亿，苹果裁员，TikTok天价和解，无人机被禁，科技圈大事件速览",
-    "description": "本期《每日新闻速递》聚焦科技圈重磅动态：AI会计公司Rillet 48小时融资1亿美元成独角兽；苹果裁减Siri和Vision Pro团队；TikTok以4亿美元和解儿童隐私诉讼；HoverAir无人机遭FCC禁令。此外，还有LinkedIn推出AI内容举报按钮、闪电光纤地震成像、罗技关税诉讼、Zillow房源隐藏争议、摩托罗拉隐私手机及Pebble复古手表等精彩内容。主播老K和小满为您深度解读，不容错过！",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-22.mp3",
-    "pub_date": "Fri, 21 Aug 2026 22:22:55 +0000",
-    "duration": "00:06:39",
-    "size": 4789197
   }
 ]
