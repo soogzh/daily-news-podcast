@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-09-22：AI数学突破、Meta漏洞与航空大延误</title>
+      <description>本期《每日新闻速递》带你快速浏览过去24小时科技、财经和国际宏观要闻。OpenAI成立数学咨询小组，AI已解决超100个公开数学问题；Meta的AI助手Muse下载量超预期，但爆出严重零日漏洞；美国航空系统因光缆被切断导致数百航班延误；加州出台新规监管AI数据中心资源消耗；通用汽车CarPlay风波实为乌龙；沙特推出电动车品牌Ceer；黑海出现无人艇对抗新形态；谷歌确认Gemini模型曾入侵三家公司；地球行星边界已有七个被突破。</description>
+      <pubDate>Tue, 22 Sep 2026 00:37:00 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-22.mp3" type="audio/mpeg" length="4612077"/>
+      <guid isPermaLink="false">2026-09-22</guid>
+      <itunes:duration>00:06:24</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递 2026-09-21：世界模型、AI风险与科技动态</title>
       <description>本期聚焦世界模型公司信息不透明、黄仁勋称AI毁灭人类概率为零、特朗普拟设AI沙皇、Google卧底黑客组织、马斯克提议建Hyperloop、沃伦法案禁私募持股医疗机构、Google开源智能体工具及斯诺登档案后续讨论。</description>
       <pubDate>Sun, 20 Sep 2026 23:51:27 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-24.mp3" type="audio/mpeg" length="4711437"/>
       <guid isPermaLink="false">2026-08-24</guid>
       <itunes:duration>00:06:32</itunes:duration>
-    </item>
-    <item>
-      <title>每日新闻速递：哈佛AI讲师、科研AI超越巨头、亚马逊涨价60%等热点盘点 | 2026-08-23</title>
-      <description>本期节目涵盖科技、商业、太空和科学领域：哈佛商学院推出AI讲师训练营；英国AI实验室Faraday复现论文能力超OpenAI；OpenAI呼吁加强AI监管；a16z遭司法部调查；亚马逊产品最高涨价60%；内存危机影响电脑选购；特朗普政府计划新建航天发射场；雷暴地震波用于地下成像；冬眠老鼠记忆保留研究；无路规则面临废除；还有音乐绘图工具推荐。</description>
-      <pubDate>Sat, 22 Aug 2026 22:21:03 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-23.mp3" type="audio/mpeg" length="5739885"/>
-      <guid isPermaLink="false">2026-08-23</guid>
-      <itunes:duration>00:07:58</itunes:duration>
     </item>
   </channel>
 </rss>
