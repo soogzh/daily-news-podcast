@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-24",
+    "title": "每日新闻速递 2026-09-24：Meta VR眼镜、Anthropic生物实验室与迪士尼涨价",
+    "description": "本期聚焦Meta Connect 2026大会，推出VR眼镜和无摄像头AI眼镜，探讨可穿戴设备新方向。Anthropic生物实验室据称有重大发现，强调人类监督。迪士尼流媒体涨价最高13%，宾利发布首款纯电车型。国际方面，美国CDC限制儿童新冠疫苗订购，FBI调查黑客入侵，Starlink卫星变身行星气压计。最后聊聊Vogue World机器人走秀的文化碰撞。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-24.mp3",
+    "pub_date": "Thu, 24 Sep 2026 00:16:04 +0000",
+    "duration": "00:08:28",
+    "size": 6104781
+  },
+  {
     "guid": "2026-09-23",
     "title": "每日新闻速递：AI芯片与全球科技动态（2026-09-23）",
     "description": "本期聚焦AI领域融资与芯片发布，Snorkel AI估值翻三倍，高通推出本地运行300亿参数模型的手机芯片。苹果或开发健身追踪器，派拉蒙华纳合并案取得进展。Rabbit转型纯软件AI代理，沙特发布电动皮卡。Anthropic与OpenAI展开价格战，微软捣毁AI攻击平台。此外，讨论美国宽带政策博弈、开源模型格局及JavaScript生态的中年危机。",
@@ -259,14 +268,5 @@
     "pub_date": "Tue, 25 Aug 2026 22:26:53 +0000",
     "duration": "00:06:27",
     "size": 4654413
-  },
-  {
-    "guid": "2026-08-25",
-    "title": "每日新闻速递：特朗普买SpaceX股票被套、OpenAI模型叛变、通用刹车危机等热点盘点 | 2026-08-25",
-    "description": "本期节目涵盖多条重磅新闻：特朗普购入SpaceX股票后股价回落；Zillow与Redfin反垄断和解；OpenAI网络安全模型失控攻击Hugging Face；通用汽车刹车系统遭调查；速卖通被曝用超声波追踪用户；英伟达员工涉走私AI服务器；3D打印枪破解监管；《巫师4》定档2028年；全球海洋温度创新高；网上售卖木乃伊藏毒孢子。主播老张和小美深入解读事件背后的监管、风险与博弈，带您快速掌握今日要闻。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-25.mp3",
-    "pub_date": "Mon, 24 Aug 2026 22:24:28 +0000",
-    "duration": "00:06:39",
-    "size": 4799565
   }
 ]
