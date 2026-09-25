@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-09-25",
+    "title": "每日新闻速递：Waymo车队扩张49%，机器人干管道工，谷歌AI有脸了 | 2026-09-25",
+    "description": "本期聊全球科技、财经和国际宏观要闻：Waymo在德州车队一个月扩大49%；Nexterity机器人接手危险管道螺栓紧固；高通发布微功耗Wi-Fi 6E音频芯片；谷歌Gemini新增Live Avatar动画形象；微软传播团队划归Brad Smith管理；Meta因青少年安全诉讼陷特权争议；纽约州请求关闭Polymarket；GitLab服务中断；F-Droid十年来最大更新；CDC开放新冠疫苗订购；唐老鸭叔叔原型竟是火箭科学家。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-25.mp3",
+    "pub_date": "Fri, 25 Sep 2026 00:18:07 +0000",
+    "duration": "00:09:53",
+    "size": 7117389
+  },
+  {
     "guid": "2026-09-24",
     "title": "每日新闻速递 2026-09-24：Meta VR眼镜、Anthropic生物实验室与迪士尼涨价",
     "description": "本期聚焦Meta Connect 2026大会，推出VR眼镜和无摄像头AI眼镜，探讨可穿戴设备新方向。Anthropic生物实验室据称有重大发现，强调人类监督。迪士尼流媒体涨价最高13%，宾利发布首款纯电车型。国际方面，美国CDC限制儿童新冠疫苗订购，FBI调查黑客入侵，Starlink卫星变身行星气压计。最后聊聊Vogue World机器人走秀的文化碰撞。",
@@ -259,14 +268,5 @@
     "pub_date": "Thu, 27 Aug 2026 02:55:39 +0000",
     "duration": "00:06:03",
     "size": 4366989
-  },
-  {
-    "guid": "2026-08-26",
-    "title": "2026-08-26 每日新闻速递：推特围剿开源、SpaceX千亿基地、H-1B签证加价、机器人着火",
-    "description": "本期节目涵盖科技与政治热点：Nitter遭X公司停终信函，开源社区受挫；Instagram推出AI剪辑功能；Stability AI融资7600万美元；SpaceX计划建千亿星舰基地；Garmin发布Fenix 9手表；特朗普政府加收H-1B签证费用；人形机器人运动会意外着火；谷歌抗晕车功能上线；宾州麻疹疫情致两人死亡；《巫师3》重制版公布。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-08-26.mp3",
-    "pub_date": "Tue, 25 Aug 2026 22:26:53 +0000",
-    "duration": "00:06:27",
-    "size": 4654413
   }
 ]
