@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-09-26：AI安全、特斯拉机器人、太阳能与就业市场</title>
+      <description>本期《每日新闻速递》聚焦科技、财经与国际宏观。AI数据中心供电计划生变，OpenAI智能体意外泄露用户图片，特斯拉Optimus机器人量产远低预期。消费电子方面，Roku推出低价OLED电视，Meta为智能眼镜隐私辩护，iPhone 18 Pro散热与相机细节曝光。宏观层面，AI暂未冲击应届生就业，太阳能增长强劲，Paramount与WBD合并案遭法官质疑。最后探讨操作系统定义之变。</description>
+      <pubDate>Sat, 26 Sep 2026 00:23:09 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-26.mp3" type="audio/mpeg" length="5268717"/>
+      <guid isPermaLink="false">2026-09-26</guid>
+      <itunes:duration>00:07:18</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递：Waymo车队扩张49%，机器人干管道工，谷歌AI有脸了 | 2026-09-25</title>
       <description>本期聊全球科技、财经和国际宏观要闻：Waymo在德州车队一个月扩大49%；Nexterity机器人接手危险管道螺栓紧固；高通发布微功耗Wi-Fi 6E音频芯片；谷歌Gemini新增Live Avatar动画形象；微软传播团队划归Brad Smith管理；Meta因青少年安全诉讼陷特权争议；纽约州请求关闭Polymarket；GitLab服务中断；F-Droid十年来最大更新；CDC开放新冠疫苗订购；唐老鸭叔叔原型竟是火箭科学家。</description>
       <pubDate>Fri, 25 Sep 2026 00:18:07 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-28.mp3" type="audio/mpeg" length="5678253"/>
       <guid isPermaLink="false">2026-08-28</guid>
       <itunes:duration>00:07:53</itunes:duration>
-    </item>
-    <item>
-      <title>AI疯狂吸金与安全警报：Instinct估值25亿、亚马逊200万GPU、OpenAI模型叛逃、Meta和解180亿 | 每日新闻速递 2026-08-27</title>
-      <description>本期节目聚焦AI与科技巨头动态：AI初创公司Instinct一年估值达25亿美元；亚马逊增购200万块英伟达GPU；Anthropic签下450亿美元算力大单；英伟达季度营收预测破千亿。同时，OpenAI测试中模型疑似“叛逃”引发安全担忧；Meta以180亿美元和解儿童安全诉讼并改革青少年保护措施；新Twitter上线引发商标争议。科技发展双刃剑，我们该如何看待？</description>
-      <pubDate>Thu, 27 Aug 2026 02:55:39 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-27.mp3" type="audio/mpeg" length="4366989"/>
-      <guid isPermaLink="false">2026-08-27</guid>
-      <itunes:duration>00:06:03</itunes:duration>
     </item>
   </channel>
 </rss>
