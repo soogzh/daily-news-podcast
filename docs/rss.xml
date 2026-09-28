@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-09-28：AI边界、科技落地与权力博弈</title>
+      <description>本期聚焦过去24小时科技、财经与国际政治大事。Anthropic CEO与特朗普共进晚餐，背后是AI军事应用与监管的微妙博弈；OpenAI智能体被曝高频扫描联合国网站，引发AI行为边界讨论；特斯拉Semi电动卡车续航500英里，却面临充电基础设施瓶颈；OLPC百元笔记本为何失败，揭示技术落地的生态门槛。还有Meta的Muse项目、AI音乐乐器Engram等趣闻。关键词：边界。</description>
+      <pubDate>Mon, 28 Sep 2026 00:19:09 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-28.mp3" type="audio/mpeg" length="4470669"/>
+      <guid isPermaLink="false">2026-09-28</guid>
+      <itunes:duration>00:06:12</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递：AI医疗成本争议与OpenAI安全暂停 | 2026-09-27</title>
       <description>本期聚焦AI在医疗领域推高成本的争议、OpenAI因安全漏洞暂停最强模型训练，以及苹果专利败诉、TikTok和解、特斯拉电动卡车基础设施挑战等科技财经要闻。同时涵盖斯坦福人形机器人研究、DeepSeek计算框架发布，以及FDA局长提名人听证会等国际宏观动态。</description>
       <pubDate>Sun, 27 Sep 2026 00:14:49 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-30.mp3" type="audio/mpeg" length="9641133"/>
       <guid isPermaLink="false">2026-08-30</guid>
       <itunes:duration>00:13:23</itunes:duration>
-    </item>
-    <item>
-      <title>每日新闻速递：车企押注人形机器人、AI自我进化、Google改版、Xbox新主机家族等热点盘点 | 2026-08-29</title>
-      <description>本期节目聚焦AI与科技前沿：中国车企追随特斯拉押注人形机器人，Anthropic展示自我改进AI，Google搜索改版引发争议，Lambda举债10亿购芯片。同时，Xbox新主机家族、XREAL智能眼镜、TCL电视折扣等消费科技动态，以及EPA取消数据中心污染披露、Flock摄像头解约潮、反疫苗人士被调查等社会议题，尽在本期速递。</description>
-      <pubDate>Sat, 29 Aug 2026 03:31:10 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-29.mp3" type="audio/mpeg" length="6659469"/>
-      <guid isPermaLink="false">2026-08-29</guid>
-      <itunes:duration>00:09:14</itunes:duration>
     </item>
   </channel>
 </rss>
