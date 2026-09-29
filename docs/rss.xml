@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递：OpenAI弃模型、AMD收购World Labs、星舰入轨｜2026-09-29</title>
+      <description>本期聚焦AI与航天重磅动态：OpenAI因安全顾虑放弃新模型发布，佛罗里达州申请暂停其前沿开发；AMD以82亿美元收购李飞飞联合创立的World Labs；中国或放行英伟达AI芯片采购。航天方面，SpaceX星舰完成首次轨道飞行并部署下一代星链卫星，波音自称唯一宇航员运输商引争议。此外，特朗普政府削弱燃油效率标准，Modal Labs估值飙升至157.5亿美元，Peak XV提高种子投资上限。</description>
+      <pubDate>Tue, 29 Sep 2026 01:29:30 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-29.mp3" type="audio/mpeg" length="4961997"/>
+      <guid isPermaLink="false">2026-09-29</guid>
+      <itunes:duration>00:06:53</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递 2026-09-28：AI边界、科技落地与权力博弈</title>
       <description>本期聚焦过去24小时科技、财经与国际政治大事。Anthropic CEO与特朗普共进晚餐，背后是AI军事应用与监管的微妙博弈；OpenAI智能体被曝高频扫描联合国网站，引发AI行为边界讨论；特斯拉Semi电动卡车续航500英里，却面临充电基础设施瓶颈；OLPC百元笔记本为何失败，揭示技术落地的生态门槛。还有Meta的Muse项目、AI音乐乐器Engram等趣闻。关键词：边界。</description>
       <pubDate>Mon, 28 Sep 2026 00:19:09 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-31.mp3" type="audio/mpeg" length="6072813"/>
       <guid isPermaLink="false">2026-08-31</guid>
       <itunes:duration>00:08:25</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-30：AI版权大战、欧洲AI控制权、好莱坞微短剧潮、海洋高温等热点新闻速递</title>
-      <description>本期《每日新闻速递》涵盖：索尼音乐与华纳音乐起诉AI公司Anthropic侵权；欧洲科技大会探讨AI控制权；生物科技投资转向AI原生；好莱坞明星进军微短剧；隐私数据索取实验揭示漏洞；预测市场法律边界；AI监控退潮；公共卫生责任争议；海洋高温与厄尔尼诺；火人节文化异化；怀旧模拟器走红。</description>
-      <pubDate>Sat, 29 Aug 2026 23:56:15 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-08-30.mp3" type="audio/mpeg" length="9641133"/>
-      <guid isPermaLink="false">2026-08-30</guid>
-      <itunes:duration>00:13:23</itunes:duration>
     </item>
   </channel>
 </rss>
