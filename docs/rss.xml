@@ -18,6 +18,14 @@
       <itunes:email>你的真实邮箱@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>每日新闻速递 2026-10-01：谷歌最强AI受限发布、五角大楼请马斯克、派拉蒙千亿合并</title>
+      <description>本期从谷歌Gemini 4 Argon仅对可信网络安全防御者开放，聊到五角大楼请马斯克等研究未来战争、Flow Engineering七亿五千万估值融资，以及Factory与Cognition的顾问争议。传媒方面，派拉蒙与华纳兄弟探索1100亿美元合并并任命联席CEO。此外还有SCP电影版权、人体植入设备通信、边境手机搜查、恐龙撞击坑生命绿洲等话题。</description>
+      <pubDate>Thu, 01 Oct 2026 01:05:51 +0000</pubDate>
+      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-10-01.mp3" type="audio/mpeg" length="6830541"/>
+      <guid isPermaLink="false">2026-10-01</guid>
+      <itunes:duration>00:09:29</itunes:duration>
+    </item>
+    <item>
       <title>每日新闻速递 2026-09-30：AI域名大战、OpenAI上市态度与超级智能改名</title>
       <description>本期聚焦AI与政治、资本深度碰撞：马斯克抢注dot.com嘲讽OpenAI，Altman称模型安全前不IPO，特朗普要求官方改称“超级智能”。还有AMD 82亿收购李飞飞World Labs、汽车数据隐私泄露、减肥药减重25%、宝马新i3续航753公里等热点。</description>
       <pubDate>Wed, 30 Sep 2026 01:04:40 +0000</pubDate>
@@ -248,14 +256,6 @@
       <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-02.mp3" type="audio/mpeg" length="6608493"/>
       <guid isPermaLink="false">2026-09-02</guid>
       <itunes:duration>00:09:10</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-01 每日新闻速递：风能飞机、苹果间谍案、Polymarket融资、a16z扩张等</title>
-      <description>本期节目涵盖印度初创公司Alteon的20岁创始人打造风能驱动飞机，苹果前员工涉嫌窃取数据给OpenAI，Polymarket获特朗普小儿子基金3亿美元投资，a16z扩大增长基金至85亿美元，谷歌电视盒子涨价50%，FTC起诉亚马逊，Apple Vision Pro沉浸式看球体验，宾利最轻车型Supersports，以及美国环孢子虫疫情等热点新闻。</description>
-      <pubDate>Tue, 01 Sep 2026 01:01:24 +0000</pubDate>
-      <enclosure url="https://soogzh.github.io/daily-news-podcast/episodes/2026-09-01.mp3" type="audio/mpeg" length="6540237"/>
-      <guid isPermaLink="false">2026-09-01</guid>
-      <itunes:duration>00:09:04</itunes:duration>
     </item>
   </channel>
 </rss>
