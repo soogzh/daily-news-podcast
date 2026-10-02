@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-02",
+    "title": "每日新闻速递 2026-10-02：自动驾驶新规、AI安全融资与科技巨头动态",
+    "description": "本期聚焦全球科技、财经与国际热点。加州出台自动驾驶出租车新规，Lyft以2.725亿美元和解司机分类诉讼，Kevin Mandia新公司Armadin获2.555亿美元融资。苹果传闻推出不录像的智能家居摄像头，谷歌上线Guided Vision功能。此外，Android Central裁员、Steam Deck 2芯片传闻、美国联邦机构遭黑客攻击、谷歌反垄断诉讼被驳回、SpaceX Crew-13历史性任务以及金星雾霾新解释等话题也一一涵盖。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-02.mp3",
+    "pub_date": "Fri, 02 Oct 2026 01:18:21 +0000",
+    "duration": "00:04:44",
+    "size": 3410253
+  },
+  {
     "guid": "2026-10-01",
     "title": "每日新闻速递 2026-10-01：谷歌最强AI受限发布、五角大楼请马斯克、派拉蒙千亿合并",
     "description": "本期从谷歌Gemini 4 Argon仅对可信网络安全防御者开放，聊到五角大楼请马斯克等研究未来战争、Flow Engineering七亿五千万估值融资，以及Factory与Cognition的顾问争议。传媒方面，派拉蒙与华纳兄弟探索1100亿美元合并并任命联席CEO。此外还有SCP电影版权、人体植入设备通信、边境手机搜查、恐龙撞击坑生命绿洲等话题。",
@@ -259,14 +268,5 @@
     "pub_date": "Wed, 02 Sep 2026 23:53:38 +0000",
     "duration": "00:09:42",
     "size": 6992973
-  },
-  {
-    "guid": "2026-09-02",
-    "title": "每日新闻速递：JioHotstar出海不带体育、安大略湖改名美国湖、AI独角兽5个月翻10倍 | 2026-09-02",
-    "description": "本期节目聚焦全球科技与商业热点：印度流媒体JioHotstar出海战略舍弃体育版权，苹果谷歌地图将安大略湖改名引发争议；AI公司AfterQuery估值五个月暴涨十倍，OpenAI发布网络关键型模型Astra，Anthropic降价抢市场；谷歌重金求好莱坞版权，FTC指控亚马逊操纵广告拍卖。此外，Android新功能防晕车、联想笔记本促销等实用信息。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-02.mp3",
-    "pub_date": "Tue, 01 Sep 2026 23:48:46 +0000",
-    "duration": "00:09:10",
-    "size": 6608493
   }
 ]
