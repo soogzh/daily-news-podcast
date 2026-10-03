@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-03",
+    "title": "每日新闻速递：AI硬件开源、Apple安全锁与Lyft天价和解 | 2026-10-03",
+    "description": "本期聚焦AI向硬件渗透：Meta开源Muse代码，Apple因AI风险限制Mac磁盘访问，Amazon数据中心争议，Stability AI转向音乐。财经方面，Lyft支付2.725亿美元和解司机分类诉讼。流媒体Netflix和Sling调整策略，开源社区Debian和Allen AI推进AI工具。最后，Doom在SQL数据库中运行，展现技术幽默。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-03.mp3",
+    "pub_date": "Sat, 03 Oct 2026 00:57:11 +0000",
+    "duration": "00:09:38",
+    "size": 6948621
+  },
+  {
     "guid": "2026-10-02",
     "title": "每日新闻速递 2026-10-02：自动驾驶新规、AI安全融资与科技巨头动态",
     "description": "本期聚焦全球科技、财经与国际热点。加州出台自动驾驶出租车新规，Lyft以2.725亿美元和解司机分类诉讼，Kevin Mandia新公司Armadin获2.555亿美元融资。苹果传闻推出不录像的智能家居摄像头，谷歌上线Guided Vision功能。此外，Android Central裁员、Steam Deck 2芯片传闻、美国联邦机构遭黑客攻击、谷歌反垄断诉讼被驳回、SpaceX Crew-13历史性任务以及金星雾霾新解释等话题也一一涵盖。",
@@ -259,14 +268,5 @@
     "pub_date": "Thu, 03 Sep 2026 23:50:31 +0000",
     "duration": "00:14:19",
     "size": 10309005
-  },
-  {
-    "guid": "2026-09-03",
-    "title": "每日新闻速递：谷歌广告反垄断裁决、Uber伦敦Robotaxi、Gemini 3.8发布、5亿收购与数据泄露 | 2026-09-03",
-    "description": "本期节目涵盖科技与财经热点：谷歌广告业务未被拆分但需调整；Uber在伦敦推出自动驾驶出租车；谷歌发布Gemini 3.8模型；派拓网络5亿美元收购Console；驾照信息大规模泄露；NASA调整登月服设计；1Password捐款风波；FCC骚扰电话记分卡；AI安全报告等。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-03.mp3",
-    "pub_date": "Wed, 02 Sep 2026 23:53:38 +0000",
-    "duration": "00:09:42",
-    "size": 6992973
   }
 ]
