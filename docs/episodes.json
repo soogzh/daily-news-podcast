@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-04",
+    "title": "每日新闻速递 2026-10-04：Flock监控裁决、OpenAI安全离职与AI游戏未来",
+    "description": "本期梳理过去24小时科技、财经与国际宏观要闻：联邦法官裁定Flock车牌识别系统构成无差别集体监控；亚马逊承诺数据中心不再用NDA；OpenAI安全报告撰写者辞职，直言公司文化已坏；印度下架Bitchat；Capcom拥抱AI游戏开发。财经方面，亚马逊十月Prime Day将至，Splice CEO警告AI邮件杀死对话。科技前沿：外骨骼走向实用，苹果收紧全磁盘权限，SQL里跑《Doom》。航天传奇Milt Windler逝世。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-04.mp3",
+    "pub_date": "Sun, 04 Oct 2026 00:23:26 +0000",
+    "duration": "00:07:35",
+    "size": 5463117
+  },
+  {
     "guid": "2026-10-03",
     "title": "每日新闻速递：AI硬件开源、Apple安全锁与Lyft天价和解 | 2026-10-03",
     "description": "本期聚焦AI向硬件渗透：Meta开源Muse代码，Apple因AI风险限制Mac磁盘访问，Amazon数据中心争议，Stability AI转向音乐。财经方面，Lyft支付2.725亿美元和解司机分类诉讼。流媒体Netflix和Sling调整策略，开源社区Debian和Allen AI推进AI工具。最后，Doom在SQL数据库中运行，展现技术幽默。",
@@ -259,14 +268,5 @@
     "pub_date": "Fri, 04 Sep 2026 23:44:45 +0000",
     "duration": "00:07:19",
     "size": 5278221
-  },
-  {
-    "guid": "2026-09-04",
-    "title": "每日新闻速递：Oura上市、特斯拉Cybercab问卷、创业公司ARR困境、TikTok国会风波等 | 2026-09-04",
-    "description": "本期节目涵盖智能戒指Oura提交IPO、特斯拉Cybercab无人出租车问卷、创业公司ARR收入不稳定、AI时代工程师技能保护、TikTok与国会冲突、NBA老板鲍尔默禁赛、液冷移动电源、Xbox串流限制、GLP-1药物新发现、志贺氏菌疫苗意外进展、参议员向NSA咨询VPN、Netflix改编龙与地下城、CDC麻疹数据争议等热点新闻。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-04.mp3",
-    "pub_date": "Thu, 03 Sep 2026 23:50:31 +0000",
-    "duration": "00:14:19",
-    "size": 10309005
   }
 ]
