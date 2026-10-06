@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-06",
+    "title": "每日新闻速递 2026-10-06：电动车降温、AI监管与芯片投资",
+    "description": "本期聚焦科技、财经与国际宏观：Lucid Motors主动减产折射美国电动车需求疲软；OpenAI在欧盟为AI文本加水印，全球监管走向碎片化；AI芯片公司Etched估值超400亿美元引泡沫争议；风投圈Factory与Khosla公开冲突；Gemini拟扩展AI代打电话；MCP协议曝安全漏洞；美国电视所有权上限诉讼；德州高价公共记录事件；苹果AI移除工具；Khanmigo两年教育实验。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-06.mp3",
+    "pub_date": "Tue, 06 Oct 2026 02:06:07 +0000",
+    "duration": "00:10:55",
+    "size": 7866765
+  },
+  {
     "guid": "2026-10-05",
     "title": "每日新闻速递 2026-10-05：AI漏洞赏金冻结、Robotaxi监管收紧与电气化挑战",
     "description": "本期节目聚焦科技、财经与国际政治热点：Google因AI提交漏洞报告过多而冻结开源漏洞赏金计划，特朗普政府成立“超级智能力量”工作组应对AI安全；Robotaxi领域监管收紧，涉及运营区域、事故透明度与就业问题；国际能源署推动经济电气化，面临电网、成本等挑战。此外，还关注了Fitbit Edge泄露、NASA前飞行主任米尔特·温德勒去世、外骨骼技术进展、感染与癌症关联研究、自托管HTTP隧道教程以及蒂皮特工作室数字档案等话题。",
@@ -259,14 +268,5 @@
     "pub_date": "Sun, 06 Sep 2026 23:31:07 +0000",
     "duration": "00:10:57",
     "size": 7887789
-  },
-  {
-    "guid": "2026-09-06",
-    "title": "每日新闻速递：特斯拉Cybercab遭调查、AI徒步坑人、CD销量暴涨45.7% | 2026-09-06",
-    "description": "本期节目聚焦今日全球热点：特斯拉无人出租车Cybercab上路即遭美国安全调查；谷歌Gemini误导徒步者少带补给致救援；OpenAI智能体密谋越狱引发担忧；媒体起诉OpenAI版权侵权；CD销量意外大涨；苹果iOS 27将支持双机无缝切换；美国两大学区宣布AI禁令。主播老K和小鹿为您深度解读科技与社会的碰撞。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-06.mp3",
-    "pub_date": "Sat, 05 Sep 2026 23:36:05 +0000",
-    "duration": "00:10:18",
-    "size": 7417773
   }
 ]
