@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-07",
+    "title": "每日新闻速递 2026-10-07：OpenAI数学突破、欧盟货船遇袭、ChatGPT水印上线",
+    "description": "本期聚焦OpenAI未发布模型解决数学难题、欧盟货船遭无人机袭击、ChatGPT在欧盟默认加水印、流媒体平台合并、苹果与LG合作智能家居、隐私AI助手Underdog、韩国银行遭AI攻击、Xbox获GTA 6流媒体独家、斯坦福软骨再生研究及亚马逊用户推断页面等科技、财经和国际要闻。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-07.mp3",
+    "pub_date": "Wed, 07 Oct 2026 01:14:39 +0000",
+    "duration": "00:06:11",
+    "size": 4464333
+  },
+  {
     "guid": "2026-10-06",
     "title": "每日新闻速递 2026-10-06：电动车降温、AI监管与芯片投资",
     "description": "本期聚焦科技、财经与国际宏观：Lucid Motors主动减产折射美国电动车需求疲软；OpenAI在欧盟为AI文本加水印，全球监管走向碎片化；AI芯片公司Etched估值超400亿美元引泡沫争议；风投圈Factory与Khosla公开冲突；Gemini拟扩展AI代打电话；MCP协议曝安全漏洞；美国电视所有权上限诉讼；德州高价公共记录事件；苹果AI移除工具；Khanmigo两年教育实验。",
@@ -259,14 +268,5 @@
     "pub_date": "Tue, 08 Sep 2026 00:01:14 +0000",
     "duration": "00:10:11",
     "size": 7343757
-  },
-  {
-    "guid": "2026-09-07",
-    "title": "2026-09-07：苹果高层变动、特斯拉Cybercab上路即遭调查、欧洲商业火箭成功发射等科技大事件速递",
-    "description": "本期节目涵盖苹果App Store负责人菲尔·席勒因理念冲突离职、优步创始人卡兰尼克或重返Robotaxi赛道、特斯拉无人出租车Cybercab上路即被调查、欧洲首枚商业轨道火箭发射成功、黑客盗取40亿比特币、养殖三文鱼营养下降等热点新闻，深度解析科技与商业动态。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-07.mp3",
-    "pub_date": "Sun, 06 Sep 2026 23:31:07 +0000",
-    "duration": "00:10:57",
-    "size": 7887789
   }
 ]
