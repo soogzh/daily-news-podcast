@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-08",
+    "title": "每日新闻速递 2026-10-08：机器人数据融资、AI PC与诺奖手性",
+    "description": "本期《每日新闻速递》聚焦全球科技、财经与国际宏观。机器人数据公司Mecka AI获红杉6000万美元融资，Endeavor Catalyst募资3.2亿投硅谷以外，Nous Research估值15亿推企业智能体，微软发布英伟达芯片AI PC，宝马iX4应对中国电动车竞争，Teenage Engineering停产合成器，诺贝尔化学奖颁给手性反应研究，计算先驱Margaret Hamilton去世。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-08.mp3",
+    "pub_date": "Thu, 08 Oct 2026 01:35:18 +0000",
+    "duration": "00:07:51",
+    "size": 5653773
+  },
+  {
     "guid": "2026-10-07",
     "title": "每日新闻速递 2026-10-07：OpenAI数学突破、欧盟货船遇袭、ChatGPT水印上线",
     "description": "本期聚焦OpenAI未发布模型解决数学难题、欧盟货船遭无人机袭击、ChatGPT在欧盟默认加水印、流媒体平台合并、苹果与LG合作智能家居、隐私AI助手Underdog、韩国银行遭AI攻击、Xbox获GTA 6流媒体独家、斯坦福软骨再生研究及亚马逊用户推断页面等科技、财经和国际要闻。",
@@ -259,14 +268,5 @@
     "pub_date": "Tue, 08 Sep 2026 23:52:09 +0000",
     "duration": "00:09:47",
     "size": 7052013
-  },
-  {
-    "guid": "2026-09-08",
-    "title": "AI黑话、苹果折叠屏、奥迪电动车、内存涨价 | 每日新闻速递 2026-09-08",
-    "description": "本期节目解读AI术语如幻觉与涌现能力，介绍伊丽莎白·霍姆斯纪录片，预告苹果折叠屏iPhone Ultra及App Store人事变动，讨论奥迪A2 E-Tron、索尼XM4C耳机、EcoFlow电源，欧洲商业火箭发射，特斯拉Cybercab调查，以及内存涨价对手机价格的影响。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-08.mp3",
-    "pub_date": "Tue, 08 Sep 2026 00:01:14 +0000",
-    "duration": "00:10:11",
-    "size": 7343757
   }
 ]
