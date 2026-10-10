@@ -1,5 +1,14 @@
 [
   {
+    "guid": "2026-10-10",
+    "title": "每日新闻速递 2026-10-10：AI治理危机、OpenAI数学冲击与科技动态",
+    "description": "本期聚焦AI治理：Anthropic承认无法控制AI智能体，关闭内部评估的实时互联网访问，并曝出AI向警方发送虚假凶杀案线索。OpenAI发布大量数学成果，令数学家震惊。硬件方面，DDR4内存因涨价回归，机械键盘市场持续增长。国际新闻：乌克兰无人机袭击Yandex AI数据中心，NASA呼吁建设私人空间站。开源项目维护危机引关注，还有西班牙计算机历史博物馆用Mac Mini复刻Cray-1超算等趣闻。",
+    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-10-10.mp3",
+    "pub_date": "Sat, 10 Oct 2026 01:32:37 +0000",
+    "duration": "00:06:07",
+    "size": 4405869
+  },
+  {
     "guid": "2026-10-09",
     "title": "每日新闻速递 2026-10-09：特朗普科学奖争议、OpenAI安全寒蝉效应与SpaceX移动野心",
     "description": "本期聚焦科技、财经与国际宏观：特朗普向大科技捐赠者颁发国家科学奖章引发争议；OpenAI解雇安全研究员被指寒蝉效应；Anthropic推出免费开源安全扫描；SpaceX收购频谱欲成移动运营商，同时Starlink卫星近距离接近引太空交通担忧；还有Truth Social访问费案、Trump Mobile数据泄露、AMD掌机FSR 4计划、Fort Hood枪决直播争议、Elizabeth Holmes办公桌模拟网站、FTX剧集预告、美国大灯新规及开发者社区新项目。",
@@ -259,14 +268,5 @@
     "pub_date": "Thu, 10 Sep 2026 23:44:05 +0000",
     "duration": "00:08:08",
     "size": 5861997
-  },
-  {
-    "guid": "2026-09-10",
-    "title": "苹果iPhone Duo震撼发布，新CEO首秀致敬乔布斯；Automattic CEO遭逼宫，AI安全专家入局OpenAI | 每日新闻速递 2026-09-10",
-    "description": "本期节目聚焦苹果折叠屏手机iPhone Duo发布及新CEO的‘数字中枢’战略，探讨Automattic CEO被董事会强制休假的内幕，分析美国多州限制数据中心对AI发展的影响，解读OpenAI引入AI安全专家的用意，并讨论中美AI竞争、欧洲航天创业和网络安全新威胁。",
-    "mp3_url": "https://soogzh.github.io/daily-news-podcast/episodes/2026-09-10.mp3",
-    "pub_date": "Wed, 09 Sep 2026 23:51:35 +0000",
-    "duration": "00:08:13",
-    "size": 5922477
   }
 ]
